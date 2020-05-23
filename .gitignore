@@ -1,0 +1,17 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+#Package Files #
+*.war
+*.ear
+
+# logs
+hs err_pid*
+/log
+
+*.idea
+*.iml
+
+/out

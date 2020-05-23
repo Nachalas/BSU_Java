@@ -1,0 +1,2 @@
+F:/java epam/UniversityLab9_A/database/StringInput.txt
+F:/java epam/UniversityLab9_A/database/StringOutput.txt

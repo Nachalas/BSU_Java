@@ -1,0 +1,5 @@
+Ivanov 8 5 7 8
+Olegov 9 10 4 8
+Antonov 8 4 8 7
+Dmitrin 10 10 7 7
+Sotona 6 6 6 6
